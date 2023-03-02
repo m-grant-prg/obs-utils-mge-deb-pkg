@@ -1,0 +1,18 @@
+Source: obs-utils
+Section: misc
+Priority: extra
+Maintainer: Mark Grant <m.grant.prg@gmail.com>
+Build-Depends: debhelper-compat (= 13),
+	autoconf, automake, txt2man, txt2manwrap
+Standards-Version: 4.5.1
+Homepage: https://github.com/m-grant-prg/obs-utils/wiki
+Vcs-Browser: https://github.com/m-grant-prg/obs-utils
+Vcs-Git: https://github.com/m-grant-prg/obs-utils.git
+Rules-Requires-Root: no
+
+Package: obs-utils
+Architecture: all
+Depends: bash, ${shlibs:Depends}, ${misc:Depends},
+	mgrant-obs-deb-keyring
+Description: Helper scripts for use with the openSUSE Build Service
+
