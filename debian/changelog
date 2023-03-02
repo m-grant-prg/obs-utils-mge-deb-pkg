@@ -1,0 +1,17 @@
+obs-utils (1.0.3-0ubuntu22.04u1) jammy; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 08 Aug 2022 09:17:17 +0100
+
+obs-utils (1.0.2-0ubuntu22.04u1) jammy; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 31 Jul 2022 15:25:25 +0100
+
+obs-utils (0.0.0-0ubuntu22.04u1) jammy; urgency=medium
+
+  * Initial development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 01 Jun 2022 15:55:30 +0100
