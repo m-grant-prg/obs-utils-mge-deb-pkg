@@ -1,8 +1,8 @@
-obs-utils (1.0.3-0ubuntu22.04u2) UNRELEASED; urgency=medium
+obs-utils (1.0.3-0ubuntu22.04u2) jammy; urgency=medium
 
   * Update Copyright for 2023.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Thu, 02 Mar 2023 15:07:16 +0000
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 02 Mar 2023 15:07:58 +0000
 
 obs-utils (1.0.3-0ubuntu22.04u1) jammy; urgency=medium
 
