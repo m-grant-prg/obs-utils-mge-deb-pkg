@@ -1,6 +1,7 @@
 obs-utils (1.1.0-0ubuntu22.04u1) UNRELEASED; urgency=medium
 
   * Merge new upstream release.
+  * Remove txt2man, rely on txt2manwrap dependencies.
 
  -- Mark Grant <m.grant.prg@gmail.com>  Thu, 10 Aug 2023 09:56:00 +0100
 
