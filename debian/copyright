@@ -4,7 +4,7 @@ Upstream-Contact: Mark Grant <m.grant.prg@gmail.com>
 Source: <url://example.com>
 
 Files: *
-Copyright: (C) 2022, 2023 Mark Grant <m.grant.prg@gmail.com>
+Copyright: (C) 2022 Mark Grant <m.grant.prg@gmail.com>
 License: GPL-3.0-only
 
 Files: debian/*
