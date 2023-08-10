@@ -1,8 +1,8 @@
-obs-utils (1.1.0+deb13u1) UNRELEASED; urgency=medium
+obs-utils (1.1.0+deb13u1) trixie; urgency=medium
 
   * Create testing branch.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Thu, 10 Aug 2023 09:49:27 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 10 Aug 2023 09:50:19 +0100
 
 obs-utils (1.1.0+deb12u1) bookworm; urgency=medium
 
