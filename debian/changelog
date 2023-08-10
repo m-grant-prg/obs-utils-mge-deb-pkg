@@ -2,6 +2,7 @@ obs-utils (1.1.0+deb12u1) UNRELEASED; urgency=medium
 
   * Merge new upstream release.
   * Remove txt2man, rely on txt2manwrap dependencies.
+  * Update watch file to support ~ in version numbers.
 
  -- Mark Grant <m.grant.prg@gmail.com>  Thu, 10 Aug 2023 09:42:21 +0100
 
