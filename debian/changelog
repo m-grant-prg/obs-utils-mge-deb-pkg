@@ -1,3 +1,10 @@
+obs-utils-mge (1.2.0+deb13u1) trixie; urgency=medium
+
+  * Merge new upstream release
+  * Change name to obs-utils-mge
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 03 Sep 2023 15:50:28 +0100
+
 obs-utils (1.1.0+deb13u1) trixie; urgency=medium
 
   * Create testing branch.
