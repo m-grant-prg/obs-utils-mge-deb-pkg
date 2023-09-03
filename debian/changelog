@@ -1,3 +1,10 @@
+obs-utils-mge (1.2.0-0ubuntu22.04u1) jammy; urgency=medium
+
+  * Merge new upstream release
+  * Change name to obs-utils-mge
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 03 Sep 2023 16:04:30 +0100
+
 obs-utils (1.1.0-0ubuntu22.04u1) jammy; urgency=medium
 
   * Merge new upstream release.
