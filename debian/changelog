@@ -1,8 +1,9 @@
-obs-utils-mge (1.2.0+deb12u1) UNRELEASED; urgency=medium
+obs-utils-mge (1.2.0+deb12u1) bookworm; urgency=medium
 
   * Merge new upstream release.
+  * Change package name to obs-utils-mge.
 
- -- Mark Grant <m.grant.prg@gmail.com>  Sun, 03 Sep 2023 15:29:06 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 03 Sep 2023 15:33:53 +0100
 
 obs-utils (1.1.0+deb12u1) bookworm; urgency=medium
 
