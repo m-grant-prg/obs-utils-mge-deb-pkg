@@ -12,6 +12,6 @@ Rules-Requires-Root: no
 
 Package: obs-utils-mge
 Architecture: all
-Depends: bash, ${shlibs:Depends}, ${misc:Depends}
+Depends: bash, ${misc:Depends}
 Description: Helper scripts for use with the openSUSE Build Service
 
