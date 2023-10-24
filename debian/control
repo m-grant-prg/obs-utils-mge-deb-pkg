@@ -12,7 +12,8 @@ Rules-Requires-Root: no
 
 Package: obs-utils-mge
 Architecture: all
-Depends: bash, ${misc:Depends},
-	mgrant-obs-deb-keyring
+Depends: bash,
+	mgrant-obs-deb-keyring,
+	${misc:Depends}
 Description: Helper scripts for use with the openSUSE Build Service
 
