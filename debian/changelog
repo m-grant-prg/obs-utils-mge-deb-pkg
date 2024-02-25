@@ -1,3 +1,9 @@
+obs-utils-mge (1.2.1~rc1+deb12u1) bookworm; urgency=medium
+
+  * New upstream release correcting version number
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 25 Feb 2024 08:39:05 +0000
+
 obs-utils-mge (1.2.0~rc1+deb12u1) bookworm; urgency=medium
 
   * New upstream development release
@@ -5,7 +11,7 @@ obs-utils-mge (1.2.0~rc1+deb12u1) bookworm; urgency=medium
   * Re-order Depends to ease cherry picking to Ubuntu
   * Update Copyright for 2024
 
- -- Mark Grant <m.grant.prg@gmail.com>  Sat, 24 Feb 2024 15:50:20 +0000
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 25 Feb 2024 08:37:26 +0000
 
 obs-utils-mge (1.2.0+deb12u1) bookworm; urgency=medium
 
