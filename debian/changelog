@@ -1,3 +1,12 @@
+obs-utils-mge (1.2.1~rc1+deb12u2) bookworm; urgency=medium
+
+  * Update editorconfig to v1.0.6
+  * Update gitattributes to v1.0.5
+  * Update gitignore to v1.0.12
+  * Update mailmap to v1.0.4
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 25 Feb 2024 09:08:45 +0000
+
 obs-utils-mge (1.2.1~rc1+deb12u1) bookworm; urgency=medium
 
   * New upstream release correcting version number
