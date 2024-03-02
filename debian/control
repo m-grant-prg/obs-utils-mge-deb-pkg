@@ -3,7 +3,7 @@ Section: misc
 Priority: extra
 Maintainer: Mark Grant <m.grant.prg@gmail.com>
 Build-Depends: debhelper-compat (= 13),
-	autoconf, automake, txt2manwrap
+	txt2manwrap
 Standards-Version: 4.5.1
 Homepage: https://github.com/m-grant-prg/obs-utils-mge/wiki
 Vcs-Browser: https://github.com/m-grant-prg/obs-utils-mge
@@ -12,8 +12,7 @@ Rules-Requires-Root: no
 
 Package: obs-utils-mge
 Architecture: all
-Depends: bash,
-	mgrant-obs-deb-keyring,
+Depends: mgrant-obs-deb-keyring,
 	${misc:Depends}
 Description: Helper scripts for use with the openSUSE Build Service
 
