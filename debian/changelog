@@ -1,3 +1,12 @@
+obs-utils-mge (1.2.1+deb12u1) bookworm; urgency=medium
+
+  * New upstream release
+  * Remove [Build-]Depends on essential packages
+  * Add lintian override for watch file
+  * Silence lintian changelog-file-missing-explicit-entry warning
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 08 Apr 2024 15:23:18 +0100
+
 obs-utils-mge (1.2.1~rc1+deb12u2) bookworm; urgency=medium
 
   * Update editorconfig to v1.0.6
