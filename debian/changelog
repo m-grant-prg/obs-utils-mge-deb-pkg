@@ -1,3 +1,9 @@
+obs-utils-mge (1.2.1+ubuntu24.04u1) noble; urgency=medium
+
+  * Create noble
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 09 May 2024 10:21:51 +0100
+
 obs-utils-mge (1.2.1+ubuntu22.04u1) jammy; urgency=medium
 
   * New upstream release
