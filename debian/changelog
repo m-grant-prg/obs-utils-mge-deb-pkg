@@ -1,0 +1,84 @@
+obs-utils-mge (1.2.1+deb13u1) trixie; urgency=medium
+
+  * New upstream release
+  * Remove erroneous shlib deoendency
+  * Re-order Depends to ease cherry picking to Ubuntu
+  * Update editorconfig to v1.0.6
+  * Update gitattributes to v1.0.5
+  * Update gitignore to v1.0.12
+  * Update mailmap to v1.0.4
+  * Update Copyright for 2024
+  * Remove [Build-]Depends on essential packages
+  * Add lintian override for watch file
+  * Silence lintian changelog-file-missing-explicit-entry warning
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 08 Apr 2024 15:27:49 +0100
+
+obs-utils-mge (1.2.0+deb13u1) trixie; urgency=medium
+
+  * Merge new upstream release
+  * Change name to obs-utils-mge
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 03 Sep 2023 15:50:28 +0100
+
+obs-utils (1.1.0+deb13u1) trixie; urgency=medium
+
+  * Create testing branch.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 10 Aug 2023 09:50:19 +0100
+
+obs-utils (1.1.0+deb12u1) bookworm; urgency=medium
+
+  * Merge new upstream release.
+  * Remove txt2man, rely on txt2manwrap dependencies.
+  * Update watch file to support ~ in version numbers.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 10 Aug 2023 09:45:47 +0100
+
+obs-utils (1.0.3+deb11u2) bullseye; urgency=medium
+
+  * Update Copyright for 2023.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 02 Mar 2023 14:01:28 +0000
+
+obs-utils (1.0.3+deb11u1) bullseye; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 08 Aug 2022 09:14:20 +0100
+
+obs-utils (1.0.2+rc1-deb11u1) bullseye; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 05 Aug 2022 09:09:46 +0100
+
+obs-utils (1.0.2-deb11u1) bullseye; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 31 Jul 2022 15:12:20 +0100
+
+obs-utils (1.0.1+rc1-deb11u1) bullseye; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 30 Jul 2022 16:09:46 +0100
+
+obs-utils (1.0.1-deb11u1) bullseye; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 25 Jun 2022 10:19:11 +0100
+
+obs-utils (0.0.0-deb11u2) bullseye; urgency=medium
+
+  * Add Depends on OBS key signing package.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 02 Jun 2022 09:14:30 +0100
+
+obs-utils (0.0.0-deb11u1) bullseye; urgency=medium
+
+  * Initial development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 01 Jun 2022 15:55:30 +0100
