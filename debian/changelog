@@ -1,3 +1,10 @@
+obs-utils-mge (1.2.1+deb13u2) trixie; urgency=medium
+
+  * New Debian release trixie
+  * Update Debian Copyright for 2025
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 25 Jul 2025 15:09:04 +0100
+
 obs-utils-mge (1.2.1+deb13u1) trixie; urgency=medium
 
   * New upstream release
