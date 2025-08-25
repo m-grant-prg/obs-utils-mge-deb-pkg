@@ -1,3 +1,11 @@
+obs-utils-mge (1.2.1+deb14u2) forky; urgency=medium
+
+  * Transition from Trixie to Forky
+  * Update Debian Copyright for 2025
+  * Update upstream Copyright for 2025
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 25 Aug 2025 10:03:30 +0100
+
 obs-utils-mge (1.2.1+deb13u1) trixie; urgency=medium
 
   * New upstream release
