@@ -1,3 +1,12 @@
+obs-utils-mge (1.3.0+ubuntu24.04u1) noble; urgency=medium
+
+  * Update Debian Copyright for 2025
+  * Update upstream Copyright for 2025
+  * Update Copyright for 2026
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 05 Jan 2026 10:21:17 +0000
+
 obs-utils-mge (1.2.1+ubuntu24.04u1) noble; urgency=medium
 
   * Create noble
