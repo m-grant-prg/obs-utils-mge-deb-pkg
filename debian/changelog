@@ -1,3 +1,10 @@
+obs-utils-mge (1.3.0+deb13u1) trixie; urgency=medium
+
+  * Update Copyright for 2026
+  * New upstream release
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 05 Jan 2026 10:12:46 +0000
+
 obs-utils-mge (1.3.0~rc2+deb13u1) trixie; urgency=medium
 
   * New upstream development release
